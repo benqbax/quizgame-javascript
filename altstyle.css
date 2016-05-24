@@ -1,0 +1,26 @@
+.buttons{
+	
+	width:100%;
+	text-align: center;
+}
+
+.buttons div{
+	margin:10px;
+}
+
+.questionarea {
+	
+    position: relative;
+	top:30px;
+
+}
+
+.questionarea h3{
+
+	padding: 10px;
+}
+
+#rerun a{
+  color :white;
+  text-align: center;
+}
